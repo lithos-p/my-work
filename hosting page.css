@@ -1,0 +1,24 @@
+*{box-sizing:border-box}//*avoid over laping*//
+body{}
+#navigation{border:1px solid blue;
+width:95%}
+#navigation a:link{padding:10px;display:inline-block}
+#navigation a:hover{background-color:darkgreen;
+color:white}
+#banner {border:1px solid red;width:95%;height:300px}
+#banner img{width:100%;
+height:100%}
+#box1{border:1px solid blue;width:45%;height:300px;
+background-color:yellow;
+float:left}
+#box1b{border:1px solid blue;width:100%;height:150px}
+#box1c{border:1px solid blue;width:100%;height:150px}
+#box2{border:2px solid blue;width:50%;
+height:300px;background-color:lightgreen;
+float:left}
+#footer{border:1px solid blue;
+width:95%;height:200px;background-color:lightblue;
+clear:left;text-align:left
+}
+.c1{background-color:green;
+color:white;}
